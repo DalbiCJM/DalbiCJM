@@ -51,19 +51,16 @@
   <h2>🌐 Connect with Me</h2>
   <p>Discover my work and connect on these platforms!</p>
 
-  <p>
-    <a href="https://www.youtube.com/@DalbiCJM" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40DalbiCJM&subtitle=@DalbiCJM&size=square" alt="YouTube" height="105" /></a>
-    <a href="https://www.instagram.com/DalbiCJM/" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2FDalbiCJM%2F&subtitle=@DalbiCJM&size=square" alt="Instagram" height="105" /></a>
-    <a href="https://x.com/DalbiCJM" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2FDalbiCJM&subtitle=@DalbiCJM&size=square" alt="Twitter" height="105" /></a>
-    <a href="https://facebook.com/DalbiCJM" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2FDalbiCJM&subtitle=@DalbiCJM&size=square" alt="Facebook" height="105" /></a>
-    <a href="https://twitch.tv/DalbiCJM" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%2FDalbiCJM&subtitle=@DalbiCJM&size=square" alt="Twitch" height="105" /></a>
-    <a href="https://discord.com/users/1452869857472155659" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.com%2Fusers%2F1452869857472155659&subtitle=DalbiCJM&size=square" alt="Discord" height="105" /></a>
-    <a href="https://www.reddit.com/user/DalbiCJM" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireddit&subtitle=u%2FDalbiCJM&size=square" alt="Reddit" height="105" /></a>
-    <a href="https://www.tiktok.com/@DalbiCJM" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sitiktok&subtitle=@DalbiCJM&size=square" alt="TikTok" height="105" /></a>
-    <a href="https://kick.com/DalbiCJM" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sikick&subtitle=@DalbiCJM&size=square" alt="Kick" height="105" /></a>
-    <a href="https://bsky.app/profile/DalbiCJM.bsky.social" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sibluesky&subtitle=@DalbiCJM&size=square" alt="Bluesky" height="105" /></a>
-    <a href="https://www.threads.net/@DalbiCJM" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sithreads&subtitle=@DalbiCJM&size=square" alt="Threads" height="105" /></a>
-    <a href="https://t.me/DalbiCJM" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sitelegram&subtitle=@DalbiCJM&size=square" alt="Telegram" height="105" /></a>
-  </p>
+| YouTube | Instagram | Twitter / X | Facebook |
+| :---: | :---: | :---: | :---: |
+| <a href="https://www.youtube.com/@DalbiCJM" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40DalbiCJM&subtitle=@DalbiCJM&size=square" alt="YouTube" height="100" /></a> | <a href="https://www.instagram.com/DalbiCJM/" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2FDalbiCJM%2F&subtitle=@DalbiCJM&size=square" alt="Instagram" height="100" /></a> | <a href="https://x.com/DalbiCJM" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2FDalbiCJM&subtitle=@DalbiCJM&size=square" alt="Twitter" height="100" /></a> | <a href="https://facebook.com/DalbiCJM" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2FDalbiCJM&subtitle=@DalbiCJM&size=square" alt="Facebook" height="100" /></a> |
+
+| Twitch | Discord | Reddit | TikTok |
+| :---: | :---: | :---: | :---: |
+| <a href="https://twitch.tv/DalbiCJM" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%2FDalbiCJM&subtitle=@DalbiCJM&size=square" alt="Twitch" height="100" /></a> | <a href="https://discord.com/users/1452869857472155659" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.com%2Fusers%2F1452869857472155659&subtitle=DalbiCJM&size=square" alt="Discord" height="100" /></a> | <a href="https://www.reddit.com/user/DalbiCJM" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireddit&subtitle=u%2FDalbiCJM&size=square" alt="Reddit" height="100" /></a> | <a href="https://www.tiktok.com/@DalbiCJM" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sitiktok&subtitle=@DalbiCJM&size=square" alt="TikTok" height="100" /></a> |
+
+| Kick | Bluesky | Threads | Telegram |
+| :---: | :---: | :---: | :---: |
+| <a href="https://kick.com/DalbiCJM" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sikick&subtitle=@DalbiCJM&size=square" alt="Kick" height="100" /></a> | <a href="https://bsky.app/profile/DalbiCJM.bsky.social" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sibluesky&subtitle=@DalbiCJM&size=square" alt="Bluesky" height="100" /></a> | <a href="https://www.threads.net/@DalbiCJM" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sithreads&subtitle=@DalbiCJM&size=square" alt="Threads" height="100" /></a> | <a href="https://t.me/DalbiCJM" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sitelegram&subtitle=@DalbiCJM&size=square" alt="Telegram" height="100" /></a> |
 
 </div>
